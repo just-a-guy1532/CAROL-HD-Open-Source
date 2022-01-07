@@ -1,0 +1,58 @@
+:music:dateTypeBeat:0.8
+
+:effect:fadeIn:0.4
+:effect:enterStageLeft:0.8
+:effect:flip:
+:carol:what: Now, what you think about that?
+
+:effect:flip:
+:carol:what: I tried my best with that one.
+
+:effect:fadeIn:0.4
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:bf:scoff: That's all you got?
+
+:music:stop:
+
+:carol:youaredead: Okay listen you're literally a fucking toddler. Baby bitch can't even wipe his own ass with those big ass hands of yours. 
+
+:carol:youaredead: Can't bend on you knees because they up yo your nuts. 
+
+:carol:youaredead:You're so fucking annoying trying to act like the best shit rapper of this place you piece of shit.
+
+:effect:rightSide:
+:bf:oof: ...
+
+:effect:fadeIn:0.4
+:effect:rightSide:
+:effect:flip:
+:effect:enterStageRight:0.8
+:gf:wehhh: ...
+
+:effect:rightSide:
+:bf:sulk: Uhhhhh, sorry girl.
+
+:effect:rightSide:
+:bf:sulk:I didn't expect that.
+
+:effect:rightSide:
+:gf:think:Carol, you should calm yourself
+
+:bg:whitty-dude:
+:carol:stressed: Sorry, this dude first called me about killing my boyfriend and now your boyfriend is acting like an asshole, its really annoying.
+
+:bg:yomama-whitty:
+:effect:rightSide:
+:gf:worry: Okay uh, you want to do the last song?
+
+:bg:yomama-whitty:
+:effect:flip:
+:carol:angry: Sure, what do you think little blue haired crybaby?
+
+:bg:yomama-whitty:
+:effect:rightSide:
+:bf:angry: Okay but stop insulting me like that, I have feelings.
+
+:bg:yomama-whitty:
+:carol:letsbatlle: Okay okay let's do this one. 

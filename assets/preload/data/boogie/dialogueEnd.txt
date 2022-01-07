@@ -1,0 +1,49 @@
+:music:dateTypeBeat:0.8
+
+:effect:fadeIn:0.4
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:bf:giddy: Yooo that was really good!
+
+:effect:fadeIn:0.4
+:effect:enterStageLeft:0.8
+:effect:flip:
+:carol:what: Finally something that you liked!
+
+:carol:happy: You want another more similar to that one?
+
+:effect:rightSide:
+:bf:pant: Nah sorry, i'm really tired.
+
+:carol:worried: Yeah, I knew that you can't handle more than 3 songs.
+
+:effect:fadeIn:0.4
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:effect:flip:
+:gf:giggle: Carol, I'm pretty sure that you're tired too.
+
+:carol:funny: Hehe, true, bestie.
+
+:carol:question: Also!
+
+:carol:letsbatlle: Don't forget to check the Freeplay.
+
+:effect:exitStageLeft:1.2
+:carol:bye:See ya!
+
+:effect:rightSide:
+:bf:questionMark: What did she mean?
+
+:effect:toLeft:0.6
+:gf:think: I don't know exactly.
+
+:gf:reassure: We should go to eat something.
+
+:effect:rightSide:
+:bf:sulk:Uhhh I don't know girl I really want to eat something... 
+
+:effect:rightSide:
+:bf:sulk:Yeah! Also I need to buy some cock rings again.
+
+:gf:blush:That's not how their are named... 

@@ -1,0 +1,31 @@
+:music:dateTypeBeat:0.8
+
+:effect:fadeIn:0.4
+:effect:enterStageLeft:0.8
+:carol:happy: What you think about that?
+
+:carol:happy: I wrote that song some months ago.
+
+:effect:fadeIn:0.4
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:bf:scoff: Meh, I heard better songs.
+
+:carol:stressed: Okay, that hurts dude.
+
+:effect:rightSide:
+:bf:flirt: You're scared of my voice? I knew it.
+
+:carol:question:Yeah you little garbage, let's do another one.
+
+:effect:fadeIn:0.4
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:gf:think: Guys you are acting like kids!
+
+:carol:youaredead:Shut up GF, this is something personal now.
+
+:effect:rightSide:
+:bf:default: WHAT DID YOU SAY?
+
+:carol:worried:Don't worry about that, let's continue.

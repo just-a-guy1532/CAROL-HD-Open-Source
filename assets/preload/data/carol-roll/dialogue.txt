@@ -1,0 +1,74 @@
+:bg:street-bg:
+:effect:hidden:
+:music:dateTypeBeat:0.8
+
+:effect:fadeIn:0.4
+:effect:rightSide:
+:effect:enterStageRight:0.8
+:bf:smile:Okay, the arcade is closing, I REALLY wanted to beat you on that Cookie Run thing.
+
+:effect:fadeIn:0.4
+:effect:enterStageLeft:0.8
+:gf:default:Haha! You can't beat me in that, you're not strong enough
+
+:gf:reassure:We should go back to home...
+:gf:reassure:Or go to McDonalds.
+
+:effect:rightSide:
+:bf:smile:GOOD IDEA.
+
+:music:stop:
+
+:effect:fadeIn:0.4
+:effect:enterStageLeft:0.8
+:carol:phone:Yeah yeah I'm going to talk with him about that later dude calm down.
+
+:gf:owl:Wait, is that...
+
+:carol:phone: Okay, bye...
+:carol:surprised: Wait, GF?!?
+
+:effect:toRight:0.6
+:gf:owl:CAROL?!?
+
+:effect:fadeIn:0.4
+:effect:enterStageLeft:0.8
+:effect:flip:
+:carol:ayo:YOOOOOOOO
+
+:music:dateTypeBeat:0.8
+
+:carol:default: Whats up girl
+
+:effect:rightSide:
+:effect:flip:
+:gf:smile: We were playing on the arcade, you?
+
+:carol:front: I was going to come here too but this stupid taller man was talking me in the phone about kill my boyfriend lol.
+:carol:question: Oh, also, who the fuck is him?
+
+:effect:rightSide:
+:gf:worry: Oh! I forgot to talk you about him.
+
+:effect:rightSide:
+:effect:flip:
+:gf:default: He is my boyfriend.xml, the best rapper of the area by far.
+
+:carol:funny: Oh, really? 
+:carol:down: What if we have a rap battle right now?
+
+:effect:rightSide:
+:bf:sulk: Uhhh I don't know girl I really want to eat something...
+
+:effect:rightSide:
+:gf:reassure: We can eat later, I want to hear Carol singing again! 
+
+:effect:rightSide:
+:bf:sulk: Uhhh... Okay let's do it.
+
+:carol:happy:I thought you were a crybaby lol
+
+:effect:rightSide:
+:bf:angry2:What did you call me?
+
+:carol:letsbatlle: Nevermind, let's rap!
