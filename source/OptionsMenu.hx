@@ -62,8 +62,12 @@ class OptionsMenu extends MusicBeatState
 			new ShowInput("Display every single input in the score screen."),
 			new Optimization("No backgrounds, no characters, centered notes, no player 2."),
 			new BotPlay("Showcase your charts and mods with autoplay."),
-		])
-		
+		]),
+
+		new OptionCatagory("Mobile settings", [
+			new CustomControls("control editor"),
+			new About("about fnf android port")
+		])      //hehe boi
 	];
 
 	public var acceptInput:Bool = true;
@@ -116,6 +120,10 @@ class OptionsMenu extends MusicBeatState
 
 		FlxTween.tween(versionShit,{y: FlxG.height - 18},2,{ease: FlxEase.elasticInOut});
 		FlxTween.tween(blackBorder,{y: FlxG.height - 18},2, {ease: FlxEase.elasticInOut});
+
+                #if mobileC
+		addVirtualPad(FULL, A_B);
+		#end
 
 		super.create();
 	}
