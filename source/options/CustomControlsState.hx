@@ -11,7 +11,7 @@ import flixel.util.FlxSave;
 import flixel.math.FlxPoint;
 import haxe.Json;
 import ui.Hitbox;
-import Config1;
+import Config;
 #if lime
 import lime.system.Clipboard;
 #end
