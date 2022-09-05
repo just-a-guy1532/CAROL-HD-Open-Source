@@ -24,6 +24,7 @@ import lime.utils.Assets;
 import flixel.math.FlxMath;
 import flixel.text.FlxText;
 import flixel.input.FlxKeyManager;
+import flixel.FlxCamera;
 
 
 using StringTools;
@@ -158,6 +159,9 @@ class ResultsScreen extends FlxSubState
         }});
 
         cameras = [FlxG.cameras.list[FlxG.cameras.list.length - 1]];
+        #if mobileC
+		addVirtualPad(NONE, A);
+		#end
 
 		super.create();
 	}
