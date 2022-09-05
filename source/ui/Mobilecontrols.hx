@@ -3,10 +3,10 @@ package ui;
 import flixel.FlxG;
 import flixel.group.FlxSpriteGroup;
 
-import mobile.FlxVirtualPad;
-import mobile.Hitbox;
+import ui.FlxVirtualPad;
+import ui.Hitbox;
 
-import KadeEngineData;
+import Config;
 
 class Mobilecontrols extends FlxSpriteGroup
 {
@@ -15,13 +15,13 @@ class Mobilecontrols extends FlxSpriteGroup
 	public var _hitbox:Hitbox;
 	public var _virtualPad:FlxVirtualPad;
 
-	var config:KadeEngineData;
+	var config:Config;
 
 	public function new() 
 	{
 		super();
 
-		config = new KadeEngineData();
+		config = new Config();
 
 		// load control mode num from Config.hx
 		mode = getModeFromNumber(config.getcontrolmode());
@@ -85,4 +85,3 @@ enum ControlsGroup {
 	VIRTUALPAD_CUSTOM;
 	HITBOX;
 }
-#end
