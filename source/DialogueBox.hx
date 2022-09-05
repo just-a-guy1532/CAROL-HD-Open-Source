@@ -313,7 +313,7 @@ class DialogueBox extends FlxSpriteGroup
 			dialogueStarted = true;
 		}
 
-                #if android
+                #if mobileC
                 var justTouched:Bool = false;
 
 		for (touch in FlxG.touches.list)
@@ -324,14 +324,14 @@ class DialogueBox extends FlxSpriteGroup
 			}
 		}
 		#end
-		if(FlxG.keys.justPressed.SPACE #if android || justTouched #end && !isEnding){
+		if(FlxG.keys.justPressed.SPACE #if mobile || justTouched #end && !isEnding){
 
 			isEnding = true;
 			endDialogue();
 
 		}
 
-		if (FlxG.keys.justPressed.ANY #if android || justTouched #end && dialogueStarted == true && canAdvance && !isEnding)
+		if (FlxG.keys.justPressed.ANY #if mobile || justTouched #end && dialogueStarted == true && canAdvance && !isEnding)
 		{
 			remove(dialogue);
 			canAdvance = false;
