@@ -8,6 +8,7 @@ import flixel.FlxObject;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
+import flixel.FlxCamera;
 class GallerySubState extends MusicBeatSubstate
 {
 
@@ -44,6 +45,15 @@ public function new(_images:Array<String>){
 	camFollow.x = artSprites.members[0].getMidpoint().x;
     camFollow.y = artSprites.members[0].getMidpoint().y;
     changeSelection();
+
+    #if mobileC
+	addVirtualPad(FULL, A_B);
+
+        var camcontrol = new FlxCamera();
+        FlxG.cameras.add(camcontrol);
+	camcontrol.bgColor.alpha = 0;
+	_virtualpad.cameras = [camcontrol];
+	#end
 	
 }
 
