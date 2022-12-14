@@ -49,7 +49,7 @@ class Main extends Sprite
 		}
 	}
 
-	public static var webmHandler:WebmHandler;
+	//public static var webmHandler:WebmHandler;
 
 	private function init(?E:Event):Void
 	{
@@ -75,7 +75,7 @@ class Main extends Sprite
 			gameHeight = Math.ceil(stageHeight / zoom);
 		}
 	
-		ClientPrefs.loadDefaultKeys();
+	        ClientPrefs.loadDefaultKeys();
 
 		#if cpp
 		initialState = Caching;
