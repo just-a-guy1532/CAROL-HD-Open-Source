@@ -1,5 +1,8 @@
 package;
 
+import ui.FlxVirtualPad;
+import flixel.util.FlxSave;
+import flixel.math.FlxPoint;
 import flixel.FlxG;
 using StringTools;
 
