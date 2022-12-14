@@ -64,7 +64,7 @@ class OptionsMenu extends MusicBeatState
 			new BotPlay("Showcase your charts and mods with autoplay."),
 		]),
 
-		new OptionCatagory("Mobile settings", [
+		new OptionCategory("Mobile settings", [
 			new CustomControls("control editor"),
 			new About("about fnf android port")
 		])      //hehe boi
