@@ -32,7 +32,7 @@ class OptionsMenu extends MusicBeatState
 
 	var _saveconrtol:FlxSave;
 
-	var config:Config = new Config1();
+	var config:Config = new Config();
 
 	override function create()
 	{
