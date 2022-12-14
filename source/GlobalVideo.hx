@@ -1,4 +1,4 @@
-package;
+/*package;
 
 import openfl.Lib;
 
@@ -92,4 +92,4 @@ class GlobalVideo
 		
 		return null;
 	}
-}
+}*/
