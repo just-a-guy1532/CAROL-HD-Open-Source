@@ -1,4 +1,4 @@
-package;
+/*package;
 
 import flixel.FlxG;
 import openfl.display.Sprite;
@@ -166,4 +166,4 @@ class WebmHandler
 	trace("THIS IS ANDROID! or some shit...");
 	}
 	#end
-}
+}*/
