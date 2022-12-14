@@ -11,7 +11,7 @@ import flixel.util.FlxSave;
 import flixel.math.FlxPoint;
 import haxe.Json;
 import ui.Hitbox;
-import Config1;
+import Config;
 #if lime
 import lime.system.Clipboard;
 #end
@@ -46,14 +46,14 @@ class CustomControlsState extends MusicBeatSubstate
 
 	var bindbutton:flixel.ui.FlxButton;
 
-	var config1:Config1;
+	var config:Config;
 
 	public function new()
 	{
 		super();
 
 		//init config
-		config1 = new Config1();
+		config = new Config();
 		
 		// bg
 		var bg:FlxSprite = new FlxSprite(-80).loadGraphic('assets/images/menuBG.png');
