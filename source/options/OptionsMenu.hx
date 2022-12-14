@@ -5,7 +5,7 @@ import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.text.FlxText;
-import Config1;
+import Config;
 #if extension-webview
 import WebViewVideo;
 #end
@@ -32,7 +32,7 @@ class OptionsMenu extends MusicBeatState
 
 	var _saveconrtol:FlxSave;
 
-	var config1:Config1 = new Config1();
+	var config:Config = new Config1();
 
 	override function create()
 	{
