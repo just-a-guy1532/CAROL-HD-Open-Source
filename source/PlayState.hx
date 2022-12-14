@@ -3566,7 +3566,7 @@ class PlayState extends MusicBeatState
 			}
 
 
-			public function backgroundVideo(source:String) // for background videos
+			/*public function backgroundVideo(source:String) // for background videos
 				{
 					#if cpp
 					useVideo = true;
@@ -3620,7 +3620,7 @@ class PlayState extends MusicBeatState
 					else
 						webmHandler.resume();
 					#end
-				}
+				}*/
 
 	function noteMiss(direction:Int = 1, daNote:Note):Void
 	{
